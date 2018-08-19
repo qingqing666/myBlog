@@ -1,6 +1,6 @@
 $(function () {
     var mySwiper = new Swiper('.swiper-container', {
-        // autoplay: true,
+        autoplay: true,
         observer: true,
         observeParents: true,
         pagination: {
